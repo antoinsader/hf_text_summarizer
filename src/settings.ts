@@ -26,7 +26,7 @@ export class LlmSummarySettingsTab extends PluginSettingTab {
 		const { containerEl } = this;
 
 		containerEl.empty();
-		this.renderSettings(containerEl);
+		void this.renderSettings(containerEl);
 	}
 
 	private async renderSettings(containerEl: HTMLElement){
