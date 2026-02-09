@@ -1,7 +1,7 @@
 {
-	"name": "llm_summary",
+	"name": "falcon_hf_summary",
 	"author": {
-		"name": "Starky"
+		"name": "Antoin Sader"
 	},
 	"version": "1.0.0",
 	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",

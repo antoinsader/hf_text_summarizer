@@ -1,9 +1,9 @@
 {
-	"id": "llm_summary",
-	"name": "LLM Summary",
+	"id": "falcon_hf_summary",
+	"name": "Falcon Hugging Face Summary",
+	"author": "Antoin Sader",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Use Hugging Face models to summarize text from your notes",
-	"author": "Starky",
 	"isDesktopOnly": false
 }
