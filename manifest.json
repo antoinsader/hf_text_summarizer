@@ -1,6 +1,6 @@
 {
-	"id": "falcon_hf_summary",
-	"name": "Falcon Hugging Face Summary",
+	"id": "hf_text_summarizer",
+	"name": "Hugging Face Text Summarizer",
 	"author": "Antoin Sader",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",

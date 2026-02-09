@@ -1,5 +1,5 @@
 {
-	"name": "falcon_hf_summary",
+	"name": "hf_text_summarizer",
 	"author": {
 		"name": "Antoin Sader"
 	},
