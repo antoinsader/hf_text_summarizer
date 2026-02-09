@@ -1,5 +1,5 @@
 import LlmSummaryPlugin from "main";
-import { App, Modal, requestUrl, Setting } from "obsidian";
+import { App, Modal, requestUrl } from "obsidian";
 
 type FalconSummaryResponse = Array<{
 	summary_text: string;
