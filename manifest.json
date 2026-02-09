@@ -4,6 +4,6 @@
 	"author": "Antoin Sader",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Use Hugging Face models to summarize text from your notes",
+	"description": "Use Hugging Face API models to summarize your notes",
 	"isDesktopOnly": false
 }
